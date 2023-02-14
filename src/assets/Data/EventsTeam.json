@@ -1,0 +1,189 @@
+[
+  {
+    "Photo": "placeholder.webp",
+    "Team": "Event Coordination",
+    "Leader": {
+      "name": "Barry",
+      "photo": "https://cdn.discordapp.com/avatars/350809719012720663/160f338c8bc02b36e8615859034d04f5.png?size=1024"
+    },
+    "Staff": {
+      "0": {
+        "Name": "Alicia Von Tost",
+        "sub": "",
+        "photo": ""
+      },
+      "1": {
+        "Name": "CelesitalRose",
+        "sub": "",
+        "photo": ""
+      },
+      "2": {
+        "Name": "Chris_Kani",
+        "sub": "",
+        "photo": ""
+      },
+      "3": {
+        "Name": "Euky",
+        "sub": "",
+        "photo": ""
+      },
+      "4": {
+        "Name": "IBETA7",
+        "sub": "",
+        "photo": ""
+      },
+      "5": {
+        "Name": "RubyStorm",
+        "sub": "",
+        "photo": ""
+      },
+      "6": {
+        "Name": "DarkNinMagic",
+        "sub": "",
+        "photo": ""
+      },
+      "7": {
+        "Name": "Spades",
+        "sub": "",
+        "photo": ""
+      },
+      "8": {
+        "Name": "Xter7856",
+        "sub": "",
+        "photo": ""
+      }
+    }
+  },
+  {
+    "Photo": "placeholder.webp",
+    "Team": "Events Team",
+    "Leader": "Shadozw",
+    "Staff": {
+      "Leader": {
+        "Name": "Shadozw",
+        "sub": "",
+        "photo": ""
+      },
+      "0": {
+        "Name": "!!Vela Zhezzaia!!",
+        "sub": "",
+        "photo": "Vela Zhezzaia.png"
+      },
+      "1": {
+        "Name": "Ace Gamer",
+        "sub": "",
+        "photo": "AceGamer.png"
+      },
+      "2": {
+        "Name": "BlueFox",
+        "sub": "",
+        "photo": ""
+      },
+      "3": {
+        "Name": "DaEpicZach",
+        "sub": "",
+        "photo": ""
+      },
+      "4": {
+        "Name": "DaEpicZach",
+        "sub": "",
+        "photo": ""
+      },
+      "5": {
+        "Name": "DarkNinMagic",
+        "sub": "",
+        "photo": ""
+      },
+      "6": {
+        "Name": "kero!",
+        "sub": "",
+        "photo": ""
+      },
+      "7": {
+        "Name": "Mageyboi",
+        "sub": "",
+        "photo": "https://media.discordapp.net/attachments/886246995763802212/1044647716766089216/VRChat_1920x1080_2022-06-29_01-33-08.512.png?width=1618&height=910"
+      },
+      "8": {
+        "Name": "MarshalClarke",
+        "sub": "",
+        "photo": ""
+      },
+      "9": {
+        "Name": "Matty MT",
+        "sub": "",
+        "photo": ""
+      },
+      "10": {
+        "Name": "MissNerdyCanty",
+        "sub": "",
+        "photo": ""
+      },
+      "11": {
+        "Name": "MissNerdyCanty",
+        "sub": "",
+        "photo": ""
+      },
+      "12": {
+        "Name": "MYHT1C",
+        "sub": "",
+        "photo": "https://media.discordapp.net/attachments/886774165636517918/1044724738041315468/VRChat_2022-11-22_20-05-02.974_2160x3840.png?width=380&height=676"
+      },
+      "13": {
+        "Name": "MysticalCyan",
+        "sub": "",
+        "photo": ""
+      },
+      "14": {
+        "Name": "RainRuby",
+        "sub": "",
+        "photo": ""
+      },
+      "15": {
+        "Name": "ReadyPlayerEmma",
+        "sub": "",
+        "photo": ""
+      },
+      "16": {
+        "Name": "Salt Breaker",
+        "sub": "",
+        "photo": ""
+      },
+      "17": {
+        "Name": "Rocky_Rocketeer",
+        "sub": "",
+        "photo": ""
+      },
+      "18": {
+        "Name": "Skooj",
+        "sub": "",
+        "photo": ""
+      },
+      "19": {
+        "Name": "SnowFoxHound",
+        "sub": "",
+        "photo": ""
+      },
+      "20": {
+        "Name": "StarNovaKitty",
+        "sub": "",
+        "photo": ""
+      },
+      "21": {
+        "Name": "TBG",
+        "sub": "",
+        "photo": ""
+      },
+      "22": {
+        "Name": "Wolvegirl",
+        "sub": "",
+        "photo": ""
+      },
+      "23": {
+        "Name": "Zero8473",
+        "sub": "",
+        "photo": ""
+      }
+    }
+  }
+]
